@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: 2a4b50a96b6f74e428f361ba9e8ad459
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zeldinha_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 910
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3019a9059e8413445a52131f5a456c44
+      internalID: 1521966098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 910
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f156af15caa4524a945997c5070a6c1
+      internalID: -632357654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 910
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd4e75591905d4d99e2634514cdb9c
+      internalID: -1257976427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 780
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9f11901e6a3774e954615c743ad387
+      internalID: -995456931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 780
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f596d59679d3044bbd51bcbead9de3
+      internalID: 307750080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 780
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489704c0382d4b644b1678f6781d7271
+      internalID: 811251188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 650
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3170f8b25cf54c469b07d6980357712
+      internalID: 1686564443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 520
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245bffa74266497429d7f7b701e93aca
+      internalID: 1263390068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 520
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242ae2b2d0cc2644c84dcca056d1e207
+      internalID: -544382754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 520
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba87d82191f25d48a763ceb1cf62897
+      internalID: -487147387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 390
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c2e4c026a8f314b895735175926ccc
+      internalID: 855123383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 400
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db96e1b00da1828428df455c9a7fa80a
+      internalID: 104284386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 390
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1838507d524b6b54ca993125350c28f4
+      internalID: 623784455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 390
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042306eaaf3accf46a5c6c0f712b8b3a
+      internalID: -464663085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_14
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 390
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfbbb5e95499ed409f3212ea75892f4
+      internalID: 827509839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 390
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8578184ac0d105e4d9d7d371dd2d213b
+      internalID: -357982856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_16
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 400
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80af317990fdbb4469547a89ca70c3ea
+      internalID: -488041325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_17
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 390
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a557344669a42c4aa037fba49ca9e40
+      internalID: -170246963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_18
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 390
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c763f3551c195244d9f7e21bc2233f49
+      internalID: 542726280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_19
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 390
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cf0719c2ba8854286a1d9dcb35fe73
+      internalID: -971887085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffdc97d8117f844a9745dc51043b21b
+      internalID: 1761937607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 265
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383dbf557684bc140b01df4ff2e2e933
+      internalID: -943486177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 275
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7033f75c879dcb24caa0d183870f2cf4
+      internalID: 1457871767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 265
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f7140a48bdbf64689862ace7927312
+      internalID: -418686002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 265
+        width: 100
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ebf0aeb68740a44a8efd0c9ea69790
+      internalID: -19353988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_25
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 260
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f578754cf690ea045b88d9dd2578f8e9
+      internalID: -1785894473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 260
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c6cf655853ad54094fe4e9bf2d5b0a
+      internalID: 17475063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_27
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 270
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807adfc4e0f75ec4e8a1469f5d0589bb
+      internalID: 1423107317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_28
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 270
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2190940174fae73428efe530132ba3e8
+      internalID: -1423821314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_29
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 265
+        width: 100
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e7802a586320547ba731a77e4b1d19
+      internalID: -1378777202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 140
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca65ba1c231b9f8489226f18108b1963
+      internalID: -1768534825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 140
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15a5ec0267760340ad43abd9311bb21
+      internalID: 2058980009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 140
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e6326d82ff0684390c3997b4cba744
+      internalID: -418109457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 140
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d0d6edd8017d043a3dcbee200edcbb
+      internalID: -502422622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_34
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 140
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d2d9f8b82925f44bc4c18a62351f28
+      internalID: -100422559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_35
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 140
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63bf1e487c861742957c6e23c378602
+      internalID: 1322780320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_36
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 140
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a35de2eed602274fa3c65a939b7cada
+      internalID: -650522202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_37
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 140
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb5f2a2888a2464fbd86537d602573d
+      internalID: -159960229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_38
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 135
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f28499a0b85cb41a08b0ffca419e4b
+      internalID: 1564486699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_39
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 140
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f8bd2fcf2ab734da482077434304f8
+      internalID: 1113040666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 100
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326c957daaa3b554e82ef438c1aa5756
+      internalID: 1979514823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ccdfa421022f342900bd756995f8b5
+      internalID: -1452991191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b4b2af4acbf1044a593a0c09dc4b71
+      internalID: -1482623040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_43
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a380bf8c23af449b884bc2b748206a
+      internalID: 602581686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5107a3e70db5a454086c8e8587024fbb
+      internalID: 1441171473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_45
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 5
+        width: 100
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee779a5ca986c0148978e9dfc0576797
+      internalID: -663835720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_46
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 5
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2d4a9fac298124eb7766484de41bab
+      internalID: -860822606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_47
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 15
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e598d356f6c4f4ba3bd555f23bec32
+      internalID: -991697390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_48
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 5
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdb04c5e567fe44cb98b8c15b02898c
+      internalID: 1259437642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeldinha_49
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba936170615efc4d8709dfc3d2e97aa
+      internalID: 523856527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zeldinha_0: 1521966098
+      Zeldinha_1: -632357654
+      Zeldinha_10: 855123383
+      Zeldinha_11: 104284386
+      Zeldinha_12: 623784455
+      Zeldinha_13: -464663085
+      Zeldinha_14: 827509839
+      Zeldinha_15: -357982856
+      Zeldinha_16: -488041325
+      Zeldinha_17: -170246963
+      Zeldinha_18: 542726280
+      Zeldinha_19: -971887085
+      Zeldinha_2: -1257976427
+      Zeldinha_20: 1761937607
+      Zeldinha_21: -943486177
+      Zeldinha_22: 1457871767
+      Zeldinha_23: -418686002
+      Zeldinha_24: -19353988
+      Zeldinha_25: -1785894473
+      Zeldinha_26: 17475063
+      Zeldinha_27: 1423107317
+      Zeldinha_28: -1423821314
+      Zeldinha_29: -1378777202
+      Zeldinha_3: -995456931
+      Zeldinha_30: -1768534825
+      Zeldinha_31: 2058980009
+      Zeldinha_32: -418109457
+      Zeldinha_33: -502422622
+      Zeldinha_34: -100422559
+      Zeldinha_35: 1322780320
+      Zeldinha_36: -650522202
+      Zeldinha_37: -159960229
+      Zeldinha_38: 1564486699
+      Zeldinha_39: 1113040666
+      Zeldinha_4: 307750080
+      Zeldinha_40: 1979514823
+      Zeldinha_41: -1452991191
+      Zeldinha_42: -1482623040
+      Zeldinha_43: 602581686
+      Zeldinha_44: 1441171473
+      Zeldinha_45: -663835720
+      Zeldinha_46: -860822606
+      Zeldinha_47: -991697390
+      Zeldinha_48: 1259437642
+      Zeldinha_49: 523856527
+      Zeldinha_5: 811251188
+      Zeldinha_6: 1686564443
+      Zeldinha_7: 1263390068
+      Zeldinha_8: -544382754
+      Zeldinha_9: -487147387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
